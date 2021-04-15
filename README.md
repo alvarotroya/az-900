@@ -1,4 +1,4 @@
-# AZ-900
+# AZ-900: Azure Fundamentals Certification
 Partially complete preparation notes taken while studying for the Azure Fundamentals certification.
 
 Main reference: Microsoft Azure Fundamentals (AZ-900) - Pluralsight Path.
