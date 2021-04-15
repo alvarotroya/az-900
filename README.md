@@ -1,6 +1,6 @@
 # AZ-900
-Preparation notes taken while studying for the Azure Fundamentals certification.
+Partially complete preparation notes taken while studying for the Azure Fundamentals certification.
 
-Main source of information: Pluralsight path - Microsoft Azure Fundamentals.
+Main reference: Microsoft Azure Fundamentals (AZ-900) - Pluralsight Path.
 
-[Notes](az-900.md).
+Link to the notes: [az-900.md](az-900.md)
